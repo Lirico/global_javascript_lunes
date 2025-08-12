@@ -10,7 +10,7 @@
     el producto de la base de datos que coincida con la tarjeta en cuestion.
 */
 
-console.log("-- CARRITO --")
+// console.log("-- CARRITO --")
 
 const products = [
     {id: 1, name: "Producto A", price: 10},

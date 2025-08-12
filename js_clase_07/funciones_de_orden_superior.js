@@ -89,3 +89,27 @@ const frutas = ["Pera", "Mora", "Manzana", "Banana"]
 // }, "")
 
 // console.log(total)
+
+
+// Funciones booleanas
+// const numeros = [1,1,2,1,1]
+// // every -> boolean
+// const sonIguales = numeros.every(numero => numero === 1)
+
+// // some -> boolean
+// const algunoCoincide = numeros.some(numero => numero === 3)
+
+// console.log(algunoCoincide)
+
+
+// Funcion de ordenamiento
+// sort -> ordena elementos naturalmente
+// Pero podemos pasarle una funcion para elegir como ordenar
+// const meses = ["Ene", "Mar", "Abr", "Dic", "Jul", "Nov"]
+// const numeros = [1, 3, 20, 4, 1000, 2, 30, 5]
+
+// const mesesOrdenados = meses.sort()
+// const numerosOrdenados = numeros.sort((a, b) => a - b) // a - b (ascendente) || b - a (descendente)
+
+// console.log(numerosOrdenados)
+
