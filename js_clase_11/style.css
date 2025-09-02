@@ -1,0 +1,10 @@
+
+
+.username,
+.email,
+.inputs_error {
+    color: red;
+    line-height: 1.5;
+    display: none;
+    font-weight: bold;
+}
