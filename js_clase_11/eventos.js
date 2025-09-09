@@ -136,12 +136,13 @@
 
 
 
-document.addEventListener("click", (event) => {
-    console.log("Hiciste click en", event.target)
+// document.addEventListener("click", (event) => {
+//     console.log("Hiciste click en", event.target)
 
-    if(event.target.matches("article > a")){
-        event.preventDefault();
-        console.log("A donde vas wachin?")
-    }
-})
+//     if(event.target.matches("article > a")){
+//         event.preventDefault();
+//         console.log("A donde vas wachin?")
+//     }
+// })
 
+console.log("manuel")
